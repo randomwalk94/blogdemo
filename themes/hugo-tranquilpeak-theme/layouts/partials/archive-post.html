@@ -9,7 +9,7 @@
           <h5 class="archive-title" style="text-decoration: none;">{{ range last 1 (split .Key "-") }}{{ i18n (lower (printf "date.month.%s" .)) }}{{ if i18n "date.month.suffix" }}{{ i18n "date.month.suffix" }}{{ end }}{{ end }}</h5>
           {{ range .Pages }}
             <li class="archive-post archive-day" data-date="{{ dateFormat "20060102" .Date }}">
-              <a class="archive-post-title" href="{{ .Permalink }}">{{ .Title }}</a>
+              <a class="archive-post-title" href="{{ .RelPermalink }}">{{ .Title }}</a><span class="archive-post-date"> - {{ partial "internal/date" . }}</span>
             </li>
           {{ end }}
         </ul>
