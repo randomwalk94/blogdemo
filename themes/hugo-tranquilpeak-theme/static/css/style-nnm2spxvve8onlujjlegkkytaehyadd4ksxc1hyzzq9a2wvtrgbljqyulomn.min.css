@@ -2734,7 +2734,10 @@ a.fancybox {
     -moz-hypens: auto;
     hypens: auto
 }
-
+.post-content{
+    z-index: -5;
+    overflow: auto;
+}
 .post .post-content img {
     display: block;
     width: auto;
