@@ -326,9 +326,7 @@ pre.code-highlight>code {
 
 #sidebar,
 #sidebar .sidebar-container {
-    overflow: auto;
-    position: relative;
-    z-index: 2000;
+    overflow: auto
 }
 
 #about #about-card {
