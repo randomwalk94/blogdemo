@@ -808,7 +808,6 @@ pre.code-highlight>code {
         -webkit-transition: width .5s, margin-left .5s;
         -moz-transition: width .5s, margin-left .5s;
         transition: width .5s, margin-left .5s;
-        position: relative;
     }
     #main[data-behavior="4"].pushed,
     #main[data-behavior="5"].pushed,
