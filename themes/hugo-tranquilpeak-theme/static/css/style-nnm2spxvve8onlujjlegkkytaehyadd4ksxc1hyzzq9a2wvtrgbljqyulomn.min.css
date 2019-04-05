@@ -3152,7 +3152,8 @@ a.fancybox {
     font-family: Merriweather, serif;
     color: #3b3b3b;
     font-weight: 400;
-    overflow: hidden;
+    z-index: -10;
+    overflow: auto;
     -webkit-hypens: auto;
     -moz-hypens: auto;
     hypens: auto
