@@ -11,8 +11,4 @@ keywords:
 #thumbnailImage: //example.com/image.jpg
 ---
 
-```
-{{< alert [classes] >}}
-content
-{{< /alert >}}
-```
+sdd
