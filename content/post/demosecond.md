@@ -10,5 +10,10 @@ keywords:
 - tech
 #thumbnailImage: //example.com/image.jpg
 ---
-
-sdd
+``` 
+{{</* tabbed-codeblock [name] [link] */>}}
+    <!-- tab [lang] -->
+        source code
+    <!-- endtab -->
+{{</* /tabbed-codeblock */>}}
+```
