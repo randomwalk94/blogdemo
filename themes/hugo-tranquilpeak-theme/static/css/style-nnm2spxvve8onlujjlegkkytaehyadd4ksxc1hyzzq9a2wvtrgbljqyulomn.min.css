@@ -2728,7 +2728,7 @@ a.fancybox {
     color: #5d686f;
     margin-top: 20px;
     font-weight: 400;
-    overflow: hidden;
+    overflow: scroll;
     -webkit-hypens: auto;
     -moz-hypens: auto;
     hypens: auto
