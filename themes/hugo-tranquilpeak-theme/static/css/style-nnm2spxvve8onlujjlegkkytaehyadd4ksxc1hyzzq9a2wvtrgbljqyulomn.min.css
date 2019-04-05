@@ -2730,7 +2730,8 @@ a.fancybox {
     color: #3b3b3b;
     margin-top: 20px;
     font-weight: 400;
-    overflow: hidden;
+    z-index: -10;
+    overflow: auto;
     -webkit-hypens: auto;
     -moz-hypens: auto;
     hypens: auto
@@ -3152,8 +3153,7 @@ a.fancybox {
     font-family: Merriweather, serif;
     color: #3b3b3b;
     font-weight: 400;
-    z-index: -10;
-    overflow: auto;
+    overflow: hidden;
     -webkit-hypens: auto;
     -moz-hypens: auto;
     hypens: auto
