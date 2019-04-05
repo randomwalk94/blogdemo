@@ -245,7 +245,7 @@ code {
 blockquote {
     border-left: 3px solid #3b3b3b;
     padding: 0 15px;
-    margin: 1.5em 0 0
+    margin: 1.5em 0 1.5em
 }
 
 blockquote cite:before {
