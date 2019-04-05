@@ -816,7 +816,6 @@ pre.code-highlight>code {
         margin-left: 250px;
         width: calc(100% - 250px);
         position: fixed;
-        overflow-y: scroll;
     }
     #main[data-behavior="3"],
     #main[data-behavior="6"] {
@@ -852,6 +851,11 @@ pre.code-highlight>code {
     #main[data-behavior="5"].pushed {
         margin-left: 250px;
         width: calc(100% - 250px)
+    }
+    #main[data-behavior="2"].pushed {
+        margin-left: 250px;
+        width: calc(100% - 250px);
+        position: fixed;
     }
     #main[data-behavior="6"] {
         padding-top: 70px;
@@ -893,6 +897,11 @@ pre.code-highlight>code {
         margin-left: 250px;
         width: calc(100% - 250px)
     }
+    #main[data-behavior="2"].pushed {
+        margin-left: 250px;
+        width: calc(100% - 250px);
+        position: fixed;
+    }
     #main[data-behavior="6"] {
         padding-top: 70px;
         display: block;
@@ -933,6 +942,11 @@ pre.code-highlight>code {
     #main[data-behavior="4"] {
         width: 100%;
         transition: width .5s, margin-left .5s
+    }
+    #main[data-behavior="2"].pushed {
+        margin-left: 250px;
+        width: calc(100% - 250px);
+        position: fixed;
     }
     #main[data-behavior="4"].pushed {
         margin-left: 500px;
