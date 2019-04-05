@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://nonmarkov.netlify.com/2019/04/demosecond/</loc>
+    <lastmod>2019-04-05T10:27:40-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://nonmarkov.netlify.com/2019/04/demofirst/</loc>
     <lastmod>2019-04-05T10:19:49-04:00</lastmod>
   </url>
@@ -118,7 +123,7 @@
   
   <url>
     <loc>https://nonmarkov.netlify.com/categories/features/</loc>
-    <lastmod>2015-05-28T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-05T10:27:40-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -160,7 +165,7 @@
   
   <url>
     <loc>https://nonmarkov.netlify.com/</loc>
-    <lastmod>2019-04-05T10:19:49-04:00</lastmod>
+    <lastmod>2019-04-05T10:27:40-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -196,7 +201,7 @@
   
   <url>
     <loc>https://nonmarkov.netlify.com/post/</loc>
-    <lastmod>2019-04-05T10:19:49-04:00</lastmod>
+    <lastmod>2019-04-05T10:27:40-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -262,13 +267,13 @@
   
   <url>
     <loc>https://nonmarkov.netlify.com/tags/test/</loc>
-    <lastmod>2015-03-23T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-05T10:27:40-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nonmarkov.netlify.com/categories/tranquilpeak/</loc>
-    <lastmod>2015-06-15T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-05T10:27:40-04:00</lastmod>
     <priority>0</priority>
   </url>
   
