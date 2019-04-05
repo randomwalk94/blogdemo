@@ -336,7 +336,6 @@ pre.code-highlight>code {
     background: #fff;
     max-width: 400px;
     margin: 15px auto;
-    border-radius: 3px;
     padding: 30px 0;
     -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, .5);
     -moz-box-shadow: 0 0 5px rgba(0, 0, 0, .5);
@@ -397,7 +396,7 @@ pre.code-highlight>code {
     #about #about-card #about-card-picture {
         width: 90px;
         height: 90px;
-        border-radius: 45px
+        /*border-radius: 45px*/
     }
     #about #about-card #about-card-job {
         margin-bottom: 15px
@@ -411,7 +410,6 @@ pre.code-highlight>code {
     #about #about-card #about-card-picture {
         width: 110px;
         height: 110px;
-        border-radius: 55px
     }
     #about #about-card #about-card-job,
     #about #about-card #about-card-location {
@@ -1056,7 +1054,6 @@ pre.code-highlight>code {
     #sidebar[data-behavior="2"] .sidebar-profile .sidebar-profile-picture {
         width: 90px;
         height: 90px;
-        border-radius: 90px;
         margin-bottom: 5px
     }
     #sidebar[data-behavior="4"] .sidebar-profile .sidebar-profile-name,
@@ -1178,7 +1175,6 @@ pre.code-highlight>code {
         height: 30px;
         line-height: 30px;
         vertical-align: middle;
-        border-radius: 30px
     }
     #sidebar[data-behavior="3"] .sidebar-profile .sidebar-profile-name,
     #sidebar[data-behavior="1"] .sidebar-profile .sidebar-profile-name,
@@ -1340,7 +1336,6 @@ pre.code-highlight>code {
     #sidebar[data-behavior="2"] .sidebar-profile .sidebar-profile-picture {
         width: 90px;
         height: 90px;
-        border-radius: 90px;
         margin-bottom: 5px
     }
     #sidebar[data-behavior="1"] .sidebar-profile .sidebar-profile-name,
@@ -1626,7 +1621,6 @@ pre.code-highlight>code {
     #sidebar[data-behavior="2"] .sidebar-profile .sidebar-profile-picture {
         width: 90px;
         height: 90px;
-        border-radius: 90px;
         margin-bottom: 5px
     }
     #sidebar[data-behavior="2"] .sidebar-profile .sidebar-profile-name {
