@@ -243,7 +243,7 @@ code {
 }
 
 blockquote {
-    border-left: 3px solid #5d686f;
+    border-left: 3px solid #3b3b3b;
     padding: 0 15px;
     margin: 1.5em 0 0
 }
@@ -381,7 +381,7 @@ pre.code-highlight>code {
     font-size: 1.6rem;
     line-height: 1.9em;
     font-weight: 400;
-    color: #5d686f
+    color: #3b3b3b
 }
 
 @media only screen and (max-width:767px) {
@@ -1997,7 +1997,7 @@ figure.highlight .gutter {
 }
 
 .archive .archive-title {
-    color: #5d686f
+    color: #3b3b3b
 }
 
 .archive .archive-posts {
@@ -2006,7 +2006,7 @@ figure.highlight .gutter {
 
 .archive .archive-posts .archive-post .archive-post-title {
     margin-left: 10px;
-    color: #5d686f
+    color: #3b3b3b
 }
 
 .archive .archive-posts .archive-post .archive-post-date {
@@ -2300,7 +2300,7 @@ figure.highlight .line {
     width: 100%;
     border: none;
     outline: 0;
-    color: #5d686f;
+    color: #3b3b3b;
     font-weight: 300
 }
 
@@ -2614,7 +2614,7 @@ a.fancybox {
 }
 
 .media-content {
-    color: #5d686f
+    color: #3b3b3b
 }
 
 .modal-container {
@@ -2663,7 +2663,7 @@ a.fancybox {
     position: absolute;
     top: 9px;
     right: 15px;
-    color: #5d686f;
+    color: #3b3b3b;
     cursor: pointer
 }
 
@@ -3313,7 +3313,7 @@ a.fancybox {
     top: 15px;
     right: 15px;
     font-size: 20px;
-    color: #5d686f;
+    color: #3b3b3b;
     cursor: pointer
 }
 
@@ -3507,7 +3507,7 @@ a.tag--small {
 }
 
 .text-color-base {
-    color: #5d686f!important
+    color: #3b3b3b!important
 }
 
 .text-color-light {
@@ -3735,7 +3735,7 @@ a.tag--small {
     position: absolute;
     top: 15px;
     left: 15px;
-    color: #5d686f
+    color: #3b3b3b
 }
 
 #algolia-search-modal .media-content {
@@ -3774,7 +3774,7 @@ a.tag--small {
 
 #algolia-search-modal .results-count {
     line-height: 50px;
-    color: #5d686f
+    color: #3b3b3b
 }
 
 #algolia-search-modal .searchby-algolia {
