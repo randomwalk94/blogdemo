@@ -2736,7 +2736,7 @@ a.fancybox {
 }
 
 .post-content{
-    overflow: scroll;
+    overflow: auto;
 }
 .post .post-content img {
     display: block;
