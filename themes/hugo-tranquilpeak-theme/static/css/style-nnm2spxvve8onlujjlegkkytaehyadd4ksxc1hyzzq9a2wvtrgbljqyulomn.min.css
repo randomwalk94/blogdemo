@@ -326,7 +326,8 @@ pre.code-highlight>code {
 
 #sidebar,
 #sidebar .sidebar-container {
-    overflow: auto
+    overflow: auto;
+    position: relative;
     z-index: 2000;
 }
 
