@@ -77,6 +77,13 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   name = "About"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question\"></i>"
   url = "/#about"
+[[menu.main]]
+  weight = 6
+  identifier = "contact"
+  name = "Contact"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-address-book\"></i>"
+  url = "/page/contact"
+
 
 # [[menu.links]]
 #   weight = 1
