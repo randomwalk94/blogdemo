@@ -2730,12 +2730,14 @@ a.fancybox {
     color: #3b3b3b;
     margin-top: 20px;
     font-weight: 400;
-    overflow: scroll;
     -webkit-hypens: auto;
     -moz-hypens: auto;
     hypens: auto
 }
 
+.post-content{
+    overflow: scroll;
+}
 .post .post-content img {
     display: block;
     width: auto;
