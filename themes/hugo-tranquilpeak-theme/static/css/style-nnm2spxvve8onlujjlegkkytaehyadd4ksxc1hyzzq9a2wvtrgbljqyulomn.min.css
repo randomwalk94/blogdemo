@@ -816,6 +816,7 @@ pre.code-highlight>code {
         margin-left: 250px;
         width: calc(100% - 250px);
         position: static;
+        overflow-y: scroll;
     }
     #main[data-behavior="3"],
     #main[data-behavior="6"] {
