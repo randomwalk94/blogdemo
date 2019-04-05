@@ -2,11 +2,10 @@
 title: "Demosecond"
 date: 2019-04-05T10:27:40-04:00
 categories:
-- category
-- subcategory
+- tranquilpeak
+- features
 tags:
-- tag1
-- tag2
+- test
 keywords:
 - tech
 #thumbnailImage: //example.com/image.jpg
