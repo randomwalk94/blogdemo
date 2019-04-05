@@ -10,7 +10,7 @@ My advisor is [Alexei Novikov](https://www.math.psu.edu/~anovikov/). My interest
 
 At the moment, I investigate the long time behavior of a Hamiltonian system driven by slowly decorrelating noise. Some early works were done by Freidlin, Wentzell, Papanicolaou, etc.  
 
-Some math $a+b=c$
+*Some math*  $a+b=c$
 
 $z(t,x)=\int\_{\mathbb R}p(t,x-y)z_0(y)dy+\int_0^t\int\_{\mathbb R}p(t-s,x-y)z(s,y)\xi(s,y)dyds$
 
