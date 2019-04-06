@@ -25,7 +25,7 @@ I decided to take a look at the Go language. One of the reasons is that it share
 </figure>
 <!--more-->
 
-Of cource, the best resource to learn Go is its own [website](https://golang.org/). They also have an interactive Go text editor and compiler at [A Tour of Go](https://tour.golang.org/welcome/1). The following code demonstrates Go syntax.
+Of cource, the best resource to learn Go is its own [website](https://golang.org/). They also have an interactive Go text editor and compiler at [A Tour of Go](https://tour.golang.org/welcome/1). The following code demonstrates Go's *C*-like syntax.
 
 {{< codeblock "A simple Go program." "go" "https://tour.golang.org/welcome/4" "sandbox.go" >}}
 package main
