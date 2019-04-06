@@ -9,3 +9,6 @@ showActions:    false
 
 My name is Hai Le. The first name sounds exactly as the word "Hi" in English. The correct form in Vietnamese would be "Hải" with the question-mark-like symbol on top of the letter "a".
 
+> "Sarcasm is the lowest form of wit but the highest form of intelligence" - **Oscar Wilde**.  
+
+
