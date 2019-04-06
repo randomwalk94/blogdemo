@@ -4646,7 +4646,7 @@ progress {
   .progress-container {
     width: 100%;
     background-color: transparent;
-    position: fixed;
+    position: relative;
     top: 0;
     left: 0;
     height: .25em;
