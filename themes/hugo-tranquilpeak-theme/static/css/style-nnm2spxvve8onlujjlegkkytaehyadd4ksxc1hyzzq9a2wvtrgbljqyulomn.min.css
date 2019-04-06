@@ -441,6 +441,11 @@ pre.code-highlight>code {
     min-width: 760px
 }
 
+#main[data-behavior="2"].pushed {
+    position: relative;
+}
+
+
 @media only screen and (max-width:760px) {
     #bottom-bar {
         min-width: calc(100% - 15px * 2)
