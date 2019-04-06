@@ -4,7 +4,6 @@ date: 2019-04-06T13:44:21-04:00
 categories:
 - coding
 tags:
-- coding
 - golang
 keywords:
 - tech
