@@ -24,4 +24,5 @@ The first post of the blog. Paste the following code into your terminal to see s
 curl -L http://bit.ly/10hA8iC | bash
 ```
 
+Thing to fix: **Progress Scroll Bar under header**
 <!--more-->
