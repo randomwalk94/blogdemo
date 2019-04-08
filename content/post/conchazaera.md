@@ -18,7 +18,7 @@ thumbnailImage: /img/conchazaera.jpeg
 </progress>
 -->
 
-I was surfing through Quora with the question [At what age does one start to be old?](https://qr.ae/TW1LO0).  
+I was surfing through Quora with the question [At what age does one start to be old?](https://qr.ae/TW1LO0) 
 
 Then I came across an example of not being old: A 87-year-old artist 'Painting' all her artworks.
 
