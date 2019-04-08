@@ -21,14 +21,13 @@ thumbnailImage: /img/conchazaera.jpeg
 I was surfing through Quora with the question [At what age does one start to be old?](https://qr.ae/TW1LO0).  
 
 Then I came across an example of not being old: A 87-year-old artist 'Painting' all her artworks.
-<!--more-->
-
-That's true. Concha García Zaera uses MS Paint on her Windows 7 desktop to draw beautiful pictures. The best way to appreciate her marvelous efforts is to go through her [instagram](https://www.instagram.com/conchagzaera/).  
 
 <figure>
     <img src="/img/conchazaerawork.png" alt="Concha Zaera work"/>
     <figcaption>A work by Zaera from her instagram.</figcaption>
 </figure>
+<!--more-->
 
+That's true. Concha García Zaera uses MS Paint on her Windows 7 desktop to draw beautiful pictures. The best way to appreciate her marvelous efforts is to go through her [instagram](https://www.instagram.com/conchagzaera/).  
 
 This really lightens me up to know such arts actually exist.
