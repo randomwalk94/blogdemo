@@ -19,7 +19,7 @@ I decided to take a look at the Go language. One of the reasons is that it share
 
 Of cource, the best resource to learn Go is its own [website](https://golang.org/). They also have an interactive Go text editor and compiler at [A Tour of Go](https://tour.golang.org/welcome/1). The following code demonstrates Go's *C*-like syntax.
 
-{{< codeblock "A simple Go program." "go" "https://tour.golang.org/welcome/4" "sandbox.go" >}}
+{{< codeblock "A simple Go program" "go" "https://tour.golang.org/welcome/4" "sandbox.go" >}}
 package main
 
 import (
@@ -46,7 +46,7 @@ cd /usr/local/go/pkg
 ```
 Then went inside the `math` package and found several functions such as `sin.go` and `log.go`. What are the algorithms does Go use to implement these common functions? First guess would be using Taylor expansion. It is indeed the case, but with some additional magic. Apparently, these functions are re-implemented by using their *C* versions. For example, here is the content at the beginning of `log.go`:
 
-{{< codeblock "logarithm function in Go." "go" "https://golang.org/src/math/log.go" "log.go" >}}
+{{< codeblock "logarithm function in Go" "go" "https://golang.org/src/math/log.go" "log.go" >}}
 // Copyright 2009 The Go Authors. All rights reserved.
 // Use of this source code is governed by a BSD-style
 // license that can be found in the LICENSE file.
