@@ -116,3 +116,4 @@ The same goes for `sin.go`. The tool being used here is called Remez algorithm. 
 
 > The **Remez algorithm** or **Remez exchange algorithm**, published by Evgeny Yakovlevich Remez in 1934, is an iterative algorithm used to find simple approximations to functions, specifically, approximations by functions in a Chebyshev space that are the best in the uniform norm $L\_\infty$ sense.
 
+The analysis is also presented [here](https://gist.github.com/dhermes/105da2a3c9861c90ea39#file-remez-pdf).
