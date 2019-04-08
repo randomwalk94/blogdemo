@@ -11,11 +11,11 @@ keywords:
 - tech
 #thumbnailImage: //example.com/image.jpg
 ---
-<progress value="0" id="progressBar">
+<!--<progress value="0" id="progressBar">
   <div class="progress-container">
     <span class="progress-bar"></span>
   </div>
 </progress>
-
+-->
 
 <!--more-->

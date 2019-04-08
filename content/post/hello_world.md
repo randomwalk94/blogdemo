@@ -11,13 +11,6 @@ keywords:
 thumbnailImagePosition: left
 thumbnailImage: /img/hello-world.png
 ---
-
-<progress value="0" id="progressBar">
-  <div class="progress-container">
-    <span class="progress-bar"></span>
-  </div>
-</progress>
-
 The first post of the blog. Paste the following code into your terminal to see some magic.
 
 ```

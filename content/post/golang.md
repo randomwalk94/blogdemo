@@ -10,13 +10,6 @@ keywords:
 thumbnailImagePosition: left
 thumbnailImage: /img/golang.png
 ---
-
-<progress value="0" id="progressBar">
-  <div class="progress-container">
-    <span class="progress-bar"></span>
-  </div>
-</progress>
-
 I decided to take a look at the Go language. One of the reasons is that it shares the name with my favorite board game, Go.
 <figure>
   <img src="/img/goboard.jpg" alt="my alt text"/>
