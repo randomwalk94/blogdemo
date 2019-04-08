@@ -12,7 +12,7 @@ thumbnailImage: /img/golang.png
 ---
 I decided to take a look at the Go language. One of the reasons is that it shares the name with my favorite board game, Go.
 <figure>
-  <img src="/img/goboard.jpg" alt="my alt text"/>
+  <img src="/img/goboard.jpg" alt="Go board"/>
   <figcaption>A Go board.</figcaption>
 </figure>
 <!--more-->
