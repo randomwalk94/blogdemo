@@ -103,7 +103,7 @@ I use syntax highlighting plugin from [gruvbox](https://github.com/morhetz/gruvb
 
 The plugins are pretty standard. My favorite is [vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors) plugin, an (successful) attempt to replicate Sublime Text style multiple selections.  
 
-The learning curve is quite steep, but as I feel more comfortable, I really don't to quit typing in Vim. I haven't learned enough tricks in Vim though.  
+The learning curve is quite steep, but as I feel more comfortable, I don't want to quit typing in Vim. I haven't learned enough tricks in Vim though.  
 
 A little bit of history: Vim stands for **Vi IMproved**. It was created by [Bram Moolenaar](https://en.wikipedia.org/wiki/Bram_Moolenaar) as a clone from, you guess it, [vi](https://en.wikipedia.org/wiki/Vi) text editor of [Bill Joy](https://en.wikipedia.org/wiki/Bill_Joy).  
 
