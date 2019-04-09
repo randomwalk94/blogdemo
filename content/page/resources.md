@@ -83,5 +83,5 @@ showActions:    false
 [CognitiveClass.ai](https://cognitiveclass.ai/) and [MLCB post](https://forum.machinelearningcoban.com/t/bat-dau-voi-bigdata-nhu-the-nao/55)  
 [Edwin Chen](http://blog.echen.me/2017/05/30/exploring-lstms/)  
 [freecodecamp](https://learn.freecodecamp.org/)   
-[Keras and CNN to detect Pokemon](https://www.pyimagesearch.com/2018/04/16/keras-and-convolutional-neural-networks-cnns/)
-
+[Keras and CNN to detect Pokemon](https://www.pyimagesearch.com/2018/04/16/keras-and-convolutional-neural-networks-cnns/)  
+[Coding livestream](https://medium.com/swlh/learn-to-code-with-live-streams-from-the-best-developers-932dcfdbb87)
