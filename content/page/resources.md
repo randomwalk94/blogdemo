@@ -84,4 +84,6 @@ showActions:    false
 [Edwin Chen](http://blog.echen.me/2017/05/30/exploring-lstms/)  
 [freecodecamp](https://learn.freecodecamp.org/)   
 [Keras and CNN to detect Pokemon](https://www.pyimagesearch.com/2018/04/16/keras-and-convolutional-neural-networks-cnns/)  
-[Coding livestream](https://medium.com/swlh/learn-to-code-with-live-streams-from-the-best-developers-932dcfdbb87)
+[Coding livestream](https://medium.com/swlh/learn-to-code-with-live-streams-from-the-best-developers-932dcfdbb87)  
+[codenewbie](https://www.codenewbie.org/)  
+
