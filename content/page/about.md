@@ -11,4 +11,6 @@ My name is Hai Le. The first name sounds exactly as the word "Hi" in English. Th
 
 > "Sarcasm is the lowest form of wit but the highest form of intelligence" - **Oscar Wilde**.  
 
+I'm currently pursuing a PhD in Mathematics at Penn State.  
 
+[Curriculum Vitae](/files/CV_HaiLe.pdf)

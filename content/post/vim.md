@@ -107,6 +107,6 @@ The learning curve is quite steep, but as I feel more comfortable, I really don'
 
 A little bit of history: Vim stands for **Vi IMproved**. It was created by [Bram Moolenaar](https://en.wikipedia.org/wiki/Bram_Moolenaar) as a clone from, you guess it, [vi](https://en.wikipedia.org/wiki/Vi) text editor of [Bill Joy](https://en.wikipedia.org/wiki/Bill_Joy).  
 
-The philosophy behind vi is to never take your hands off the keyboard while typing. I admit the guilty of using the mouse sometimes, but that's just for convenience.  
+The philosophy behind vi is to never take your hands off the keyboard while typing. I admit the guilt of using the mouse sometimes, but that's just for convenience.  
 
 Oh, to exit Vim, type `:q`, or `:q!`, or maybe, `:x`. 
