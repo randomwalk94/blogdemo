@@ -8,7 +8,7 @@ tags:
 - black hole
 keywords:
 - tech
-thumbnailImage: /img/blackhole.jpg
+thumbnailImage: /img/firstbh.jpeg
 ---
 <!--<progress value="0" id="progressBar">
   <div class="progress-container">
