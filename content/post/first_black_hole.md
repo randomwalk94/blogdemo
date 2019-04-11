@@ -20,8 +20,12 @@ Image credit: [EHT](https://eventhorizontelescope.org/).
 
 Scientists at The Event Horizon Telescope Collaboration revealed to the public the first picture of what we call a black hole.  
 <!--more-->
+<figure>
+  <img src="/img/blackhole.jpg" alt="First black hole."/>
+  <figcaption>It looks like a donut (or a cup?).</figcaption>
+</figure>
 
-It looks like a donut (or a cup?). The task has been thought to be impossible because of its bizarre nature (light can't escape from it). 
+The task has been thought to be impossible because of its bizarre nature (light can't escape from it). 
 
 That all changed now.  
 
