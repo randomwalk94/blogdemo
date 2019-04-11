@@ -48,10 +48,15 @@ The algorithm to make this possible is due to **Katie Bouman**. Here is her [PhD
   <figcaption>Katie Bouman.</figcaption>
 </figure>
 
+She also gave a TED talk a while ago. 
+{{< youtube BIvezCVcsYs >}}
+
 Let's end this with a little joke.
 
 >**Q**: What do you and black hole have in common?  
 **A**: Both suck.
+
+
 
 [^1]: The shadow of a black hole is the closest we can come to an image of the black hole itself, a completely dark object from which light cannot escape. The black hole’s boundary — the event horizon from which the EHT takes its name — is around 2.5 times smaller than the shadow it casts and measures just under 40 billion km across.
 
