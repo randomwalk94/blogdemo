@@ -8,6 +8,7 @@ tags:
 - black hole
 keywords:
 - tech
+draft: true
 #thumbnailImage: //example.com/image.jpg
 ---
 <!--<progress value="0" id="progressBar">
